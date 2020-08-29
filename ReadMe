@@ -1,0 +1,2 @@
+This is just a simple code which performs CRUD operations on SQL Server Database through ASP.NET MVC WebApi.
+API requests configured are GET,PUT,PATCHa and Delete.
