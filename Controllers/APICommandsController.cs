@@ -104,7 +104,7 @@ namespace APICommander.Controllers
 
         //Delete api/commands/{id}
         [HttpDelete("{id}")]
-
+        //Comment For Git
         public ActionResult DeleteCommand(int id)
         {
             var commandmodelfromrepo=_repository.GetCommandById(id);
